@@ -1,0 +1,4 @@
+leak:libdbus-1.so
+leak:libnvidia-glcore.so
+leak:libSDL3.so
+leak:libGLX_nvidia
